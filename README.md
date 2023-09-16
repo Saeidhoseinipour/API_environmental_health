@@ -32,3 +32,22 @@
 | 28  | [National Oceanic and Atmospheric Administration (NOAA) - Climate](https://www.climate.gov/) | Offers climate data, research, and educational resources. | Climate Change (33), NOAA (41), Education (34) |
 | 29  | [Climate Adaptation Knowledge Exchange (CAKE)](https://www.cakex.org/) | Focuses on climate adaptation strategies and resources. | Climate Change (33), Adaptation (42), Resources (7) |
 | 30  | [Skeptical Science - Climate Change Myths](https://skepticalscience.com/argument.php) | Debunks common myths and misconceptions about climate change with scientific evidence. | Climate Change (33), Myths (43), Debunking (44) |
+| 31  | [Air Quality in the United States - EPA](https://www.epa.gov/air-quality-index-aqi) | Official information on air quality in the United States provided by the Environmental Protection Agency (EPA). | Air Quality (1), USA (45), Government (46) |
+| 32  | [BreezoMeter](https://www.breezometer.com/)      | Offers real-time air quality maps, data, and an API for global air quality information. | Air Quality (1), Maps (2), Data (3) |
+| 33  | [AirNow - United States Air Quality Index](https://www.airnow.gov/) | Provides real-time air quality data and forecasts for various regions in the United States. | Air Quality (1), USA (45), Data (3) |
+| 34  | [Water.org](https://water.org/)                  | Focuses on access to clean water and sanitation solutions in developing countries. | Water Pollution (18), Sanitation (47), Non-profit (48) |
+| 35  | [International Water Association (IWA)](https://www.iwa-network.org/) | A global network for water professionals, promoting sustainable water management. | Water Pollution (18), Network (49), Sustainability (50) |
+| 36  | [Clean Water Action](https://www.cleanwateraction.org/) | Advocates for clean water and environmental protection in the United States. | Water Pollution (18), Advocacy (5), USA (45) |
+| 37  | [NASA Climate Change](https://climate.nasa.gov/nasa_science/index.cfm) | NASA's in-depth resources on climate science, research, and missions. | Climate Change (33), NASA (40), Science (35) |
+| 38  | [The Climate Group](https://www.theclimategroup.org/) | Works with businesses and governments to accelerate climate action and drive sustainability. | Climate Change (33), Business (51), Sustainability (50) |
+| 39  | [Yale Climate Connections](https://www.yaleclimateconnections.org/) | Features stories and research on climate change and its impact on communities. | Climate Change (33), Stories (52), Communities (53) |
+| 40  | [Greenpeace - Climate Change](https://www.greenpeace.org/international/issue/20584/climate-change/) | Greenpeace's climate change campaign and resources for climate action. | Climate Change (33), Activism (54), Greenpeace (55) |
+| 41  | [Intergovernmental Panel on Climate Change (IPCC)](https://www.ipcc.ch/) | Provides authoritative assessments on climate change science and impacts. | Climate Change (33), IPCC (56), Science (35) |
+| 42  | [Union of Concerned Scientists - Climate](https://www.ucsusa.org/climate) | Advocates for science-based solutions to reduce the impact of climate change. | Climate Change (33), Advocacy (5), Science (35) |
+| 43  | [Climate Change Explorer](https://climate.nasa.gov/explorer/) | NASA's interactive tool for exploring climate data and visualizations. | Climate Change (33), NASA (40), Data (3) |
+| 44  | [National Geographic - Climate Change](https://www.nationalgeographic.com/environment/article/climate-change) | Features articles, photos, and resources on the effects of climate change. | Climate Change (33), Environment (15), Resources (7) |
+| 45  | [Climate Reality Leadership Corps](https://www.climaterealityproject.org/training) | Offers climate leadership training and resources for climate activists. | Climate Change (33), Training (57), Activism (54) |
+| 46  | [Center for Climate and Energy Solutions (C2ES)](https://www.c2es.org/) | Focuses on practical solutions to address climate change and promote sustainability. | Climate Change (33), Solutions (58), Sustainability (50) |
+| 47  | [C40 Cities](https://www.c40.org/) | A network of major cities committed to addressing climate change and reducing emissions. | Climate Change (33), Cities (59), Emissions (60) |
+| 48  | [The Nature Conservancy - Climate Change](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/climate-change-perspectives/) | Articles and insights on climate change and conservation efforts. | Climate Change (33), Conservation (22), Nature (61) |
+
