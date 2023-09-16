@@ -51,3 +51,88 @@
 | 47  | [C40 Cities](https://www.c40.org/) | A network of major cities committed to addressing climate change and reducing emissions. | Climate Change (33), Cities (59), Emissions (60) |
 | 48  | [The Nature Conservancy - Climate Change](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/climate-change-perspectives/) | Articles and insights on climate change and conservation efforts. | Climate Change (33), Conservation (22), Nature (61) |
 
+
+
+
+| No. | Website                                                | Description                                         | Label |
+|-----|--------------------------------------------------------|-----------------------------------------------------|-------|
+| 1   | [www.climatecentral.org/](http://www.climatecentral.org/)             | Climate change resources and information            | 1     |
+| 2   | [www.carbonbrief.org/](http://www.carbonbrief.org/)               | Climate science and policy news                    | 1     |
+| 3   | [skepticalscience.com/](http://skepticalscience.com/)             | Debunking climate change myths                      | 1     |
+| 4   | [climaticoanalysis.org/](http://climaticoanalysis.org/)            | Climate policy analysis and research               | 1     |
+| 5   | [www.climatechangenews.com/](http://www.climatechangenews.com/)     | Climate change news and updates                    | 1     |
+| 6   | [www.eenews.net/climatewire/](http://www.eenews.net/climatewire/)   | Climate and energy news                             | 1     |
+| 7   | [cleantechnica.com/](http://cleantechnica.com/)                 | Clean energy and technology news                   | 1     |
+| 8   | [reneweconomy.com.au/](http://reneweconomy.com.au/)              | Renewable energy news and analysis                 | 1     |
+| 9   | [www.theguardian.com/environment](http://www.theguardian.com/environment) | Environmental news from The Guardian               | 1     |
+| 10  | [www.bbc.co.uk/news/science_and_environment](http://www.bbc.co.uk/news/science_and_environment) | BBC Science and Environment News           | 1     |
+| 11  | [www.npr.org/sections/climate/](http://www.npr.org/sections/climate/)   | NPR's coverage of climate-related topics            | 1     |
+| 12  | [www.nytimes.com/section/climate](http://www.nytimes.com/section/climate) | Climate news and updates from The New York Times  | 1     |
+| 13  | [www.washingtonpost.com/climate-environment/](http://www.washingtonpost.com/climate-environment/) | Climate and environment news from The Washington Post | 1 |
+| 14  | [www.scientificamerican.com/climate/](http://www.scientificamerican.com/climate/) | Scientific American's climate coverage        | 1     |
+| 15  | [www.reuters.com/news/environment/climate-change](http://www.reuters.com/news/environment/climate-change) | Climate change news from Reuters | 1 |
+| 16  | [www.bloomberg.com/green](http://www.bloomberg.com/green) | Bloomberg Green - Climate and sustainability news | 1     |
+| 17  | [theconversation.com/environment](http://theconversation.com/environment) | Environment articles and analysis from The Conversation | 1 |
+| 18  | [www.wri.org/our-work/topics/climate](http://www.wri.org/our-work/topics/climate) | World Resources Institute - Climate research and publications | 1 |
+| 19  | [www.climatepolicyinitiative.org/](http://www.climatepolicyinitiative.org/) | Climate Policy Initiative - Climate finance and policy research | 1 |
+| 20  | [public.wmo.int/en/media/news](http://public.wmo.int/en/media/news) | World Meteorological Organization (WMO) - Climate-related news | 1 |
+| 21  | [www.climatechangenews.com/](http://www.climatechangenews.com/) | Climate Change News - Global climate news and analysis | 1 |
+| 22  | [weather.com/science/environment/climate](http://weather.com/science/environment/climate) | The Weather Channel - Climate news and information | 1 |
+| 23  | [www.theclimategroup.org/](http://www.theclimategroup.org/) | The Climate Group - Climate leadership organization | 1 |
+| 24  | [www.climaterealityproject.org/](http://www.climaterealityproject.org/) | The Climate Reality Project - Climate education and action | 1 |
+| 25  | [www.worldwildlife.org/initiatives/climate](http://www.worldwildlife.org/initiatives/climate) | World Wildlife Fund (WWF) - Climate change initiatives | 1 |
+| 26  | [www.teriin.org/](http://www.teriin.org/) | The Energy and Resources Institute (TERI) - Environmental research | 1 |
+| 27  | [climate.nasa.gov/](http://climate.nasa.gov/) | NASA Climate - Climate change research and resources | 2 |
+| 28  | [www.climate.gov/](http://www.climate.gov/) | NOAA Climate.gov - Climate science and education | 2 |
+| 29  | [unfccc.int/](http://unfccc.int/) | United Nations Framework Convention on Climate Change (UNFCCC) | 2 |
+| 30  | [www.ipcc.ch/](http://www.ipcc.ch/) | Intergovernmental Panel on Climate Change (IPCC) | 2 |
+| 31  | [www.worldbank.org/en/topic/climatechange](http://www.worldbank.org/en/topic/climatechange) | World Bank - Climate change resources and projects | 2 |
+| 32  | [www.epa.gov/climatechange](http://www.epa.gov/climatechange) | U.S. Environmental Protection Agency (EPA) - Climate change information | 2 |
+| 33  | [www.nationalgeographic.com/environment/climate-change/](http://www.nationalgeographic.com/environment/climate-change/) | National Geographic - Climate change articles and features | 2 |
+| 34  | [www.climaterealityproject.org/](http://www.climaterealityproject.org/) | The Climate Reality Project - Climate education and action | 2 |
+| 35  | [climatenetwork.org/](http://climatenetwork.org/) | Climate Action Network - International climate advocacy | 2 |
+| 36  | [www.nature.org/en-us/what-we-do/our-insights/perspectives/climate-change/](http://www.nature.org/en-us/what-we-do/our-insights/perspectives/climate-change/) | The Nature Conservancy - Perspectives on climate change | 2 |
+| 37  | [www.ucsusa.org/climate](http://www.ucsusa.org/climate) | Union of Concerned Scientists - Climate research and advocacy | 2 |
+| 38  | [www.climatecentral.org/](http://www.climatecentral.org/) | Climate change resources and information | 2 |
+| 39  | [www.climateworks.org/](http://www.climateworks.org/) | ClimateWorks Foundation - Climate solutions and philanthropy | 2 |
+| 40  | [www.carbonbrief.org/](http://www.carbonbrief.org/) | Carbon Brief - Climate science and policy news | 2 |
+| 41  | [skepticalscience.com/](http://skepticalscience.com/) | Debunking climate change myths | 2 |
+| 42  | [climaticoanalysis.org/](http://climaticoanalysis.org/) | Climate policy analysis and research | 2 |
+| 43  | [www.climatechangenews.com/](http://www.climatechangenews.com/) | Climate change news and updates | 2 |
+| 44  | [insideclimatenews.org/](http://insideclimatenews.org/) | InsideClimate News - Climate reporting and analysis | 2 |
+| 45  | [www.eenews.net/climatewire/](http://www.eenews.net/climatewire/) | ClimateWire - Climate and energy news | 2 |
+| 46  | [cleantechnica.com/](http://cleantechnica.com/) | Clean energy and technology news | 2 |
+| 47  | [reneweconomy.com.au/](http://reneweconomy.com.au/) | Renewable energy news and analysis | 2 |
+| 48  | [www.theguardian.com/environment](http://www.theguardian.com/environment) | Environmental news from The Guardian | 2 |
+| 49  | [www.bbc.co.uk/news/science_and_environment](http://www.bbc.co.uk/news/science_and_environment) | BBC Science and Environment News | 2 |
+| 50  | [www.npr.org/sections/climate/](http://www.npr.org/sections/climate/) | NPR's coverage of climate-related topics | 2 |
+| 51  | [www.nytimes.com/section/climate](http://www.nytimes.com/section/climate) | Climate news and updates from The New York Times | 2 |
+| 52  | [www.washingtonpost.com/climate-environment/](http://www.washingtonpost.com/climate-environment/) | Climate and environment news from The Washington Post | 2 |
+| 53  | [www.scientificamerican.com/climate/](http://www.scientificamerican.com/climate/) | Scientific American's climate coverage | 2 |
+| 54  | [www.reuters.com/news/environment/climate-change](http://www.reuters.com/news/environment/climate-change) | Climate change news from Reuters | 2 |
+| 55  | [www.bloomberg.com/green](http://www.bloomberg.com/green) | Bloomberg Green - Climate and sustainability news | 2 |
+| 56  | [theconversation.com/environment](http://theconversation.com/environment) | Environment articles and analysis from The Conversation | 2 |
+| 57  | [www.airnow.gov/](http://www.airnow.gov/) | Air quality information and forecasts | 3 |
+| 58  | [waqi.info/](http://waqi.info/) | Worldwide Air Quality Index (AQI) data | 3 |
+| 59  | [www.lung.org/clean-air/outdoors/who-is-at-risk/air-quality-index](http://www.lung.org/clean-air/outdoors/who-is-at-risk/air-quality-index) | American Lung Association - Air Quality Index (AQI) information | 3 |
+| 60  | [www.springer.com/journal/11869](http://www.springer.com/journal/11869) | Springer - Journal of Atmospheric Chemistry and Physics | 3 |
+| 61  | [www.nasa.gov/content/air-quality/](http://www.nasa.gov/content/air-quality/) | NASA - Air quality research and data | 3 |
+| 62  | [www.edf.org/airquality](http://www.edf.org/airquality) | Environmental Defense Fund - Air quality information | 3 |
+| 63  | [www.cdc.gov/nceh/airpollution/default.htm](http://www.cdc.gov/nceh/airpollution/default.htm) | CDC - Air pollution and respiratory health information | 3 |
+| 64  | [www.theguardian.com/environment/air-pollution](http://www.theguardian.com/environment/air-pollution) | The Guardian - Air pollution news and articles | 3 |
+| 65  | [www.eea.europa.eu/themes/air](http://www.eea.europa.eu/themes/air) | European Environment Agency - Air quality monitoring | 3 |
+| 66  | [pubs.acs.org/journal/esthag](http://pubs.acs.org/journal/esthag) | Environmental Science & Technology - Air quality research | 3 |
+| 67  | [cleanairasia.org/](http://cleanairasia.org/) | Clean Air Asia - Air quality and sustainable transportation | 3 |
+| 68  | [www.thelancet.com/journals/lanplh](http://www.thelancet.com/journals/lanplh) | The Lancet Planetary Health - Air pollution research | 3 |
+| 69  | [www.iqair.com/](http://www.iqair.com/) | IQAir - Air quality data and products | 3 |
+| 70  | [www.nationalgeographic.com/environment/article/air-pollution](http://www.nationalgeographic.com/environment/article/air-pollution) | National Geographic - Air pollution articles | 3 |
+| 71  | [www.eea.europa.eu/themes/air](http://www.eea.europa.eu/themes/air) | European Environment Agency - Air quality monitoring | 3 |
+| 72  | [pubs.acs.org/journal/esthag](http://pubs.acs.org/journal/esthag) | Environmental Science & Technology - Air quality research | 3 |
+| 73  | [www.unep.org/geo/geo-6](http://www.unep.org/geo/geo-6) | UNEP - Global Environment Outlook (GEO-6) | 3 |
+| 74  | [www.epa.gov/indoor-air-quality-iaq/air-pollution-control-technology](http://www.epa.gov/indoor-air-quality-iaq/air-pollution-control-technology) | EPA - Air pollution control technology | 3 |
+| 75  | [www.nies.go.jp/igac/aqr/](http://www.nies.go.jp/igac/aqr/) | NIES IGAC AeroCom - Atmospheric composition research | 3 |
+| 76  | [www.aaaai.org/conditions-and-treatments/library/allergy-library/outdoor-air-pollution](http://www.aaaai.org/conditions-and-treatments/library/allergy-library/outdoor-air-pollution) | AAAAI - Outdoor air pollution and allergies | 3 |
+
+
+
+
