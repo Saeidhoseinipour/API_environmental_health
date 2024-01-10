@@ -4,6 +4,7 @@
 
 
 
+
 | No. | Website                                     | Description                                               | Labels                     |
 |-----|---------------------------------------------|-----------------------------------------------------------|----------------------------|
 | 1   | [AQICN - Air Quality Information](https://aqicn.org/) | Offers real-time air quality maps and data for cities worldwide. | Air Quality (1), Maps (2), Data (3) |
