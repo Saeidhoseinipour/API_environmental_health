@@ -3,6 +3,9 @@ from bs4 import BeautifulSoup
 import re
 import matplotlib.pyplot as plt
 from collections import Counter
+from sklearn.feature_extraction.text import TfidfVectorizer
+import numpy as np
+import csv
 
 class WebsiteTextAnalyzer:
     def __init__(self, urls):
@@ -69,6 +72,25 @@ class WebsiteTextAnalyzer:
                 file.write("%s\n" % item)
         print(f"Text data saved to {file_path}")
 
+    def generate_tfidf_matrix(self):
+        tfidf = TfidfVectorizer()
+        tfidf_matrix = tfidf.fit_transform(self.text_data)
+        X_tf_idf = np.array(tfidf_matrix.todense())
+        print(X_tf_idf)
+        print(np.shape(X_tf_idf))
+
+    def save_vocabulary_as_csv(self, vocabulary, csv_file_path):
+        # Convert the vocabulary dictionary to a list of tuples
+        vocabulary_list = [(word, index) for word, index in vocabulary.items()]
+
+        # Write the vocabulary to the CSV file
+        with open(csv_file_path, 'w', newline='', encoding='utf-8') as csvfile:
+            csv_writer = csv.writer(csvfile)
+            csv_writer.writerow(['Word', 'Index'])  # Write header
+            csv_writer.writerows(vocabulary_list)
+
+        print(f'Vocabulary saved to {csv_file_path}')
+
 # Example usage
 urls = [
     "http://www.example.com",
@@ -78,7 +100,12 @@ urls = [
 analyzer = WebsiteTextAnalyzer(urls)
 analyzer.fetch_text_from_urls()
 analyzer.plot_word_frequencies()
-
-# Save combined corpus and text data
 analyzer.save_combined_corpus('Corpus_API_climate.txt')
 analyzer.save_text_data('text_data_API_climate.txt')
+analyzer.generate_tfidf_matrix()
+
+# Assuming you have already fetched text data and generated the TF-IDF matrix
+# You can use the vocabulary obtained from the TfidfVectorizer
+vocabulary = tfidf.vocabulary_
+csv_file_path = 'Vocabulary_API_climate.csv'
+analyzer.save_vocabulary_as_csv(vocabulary, csv_file_path)
